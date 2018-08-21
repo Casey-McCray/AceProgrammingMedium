@@ -1,2 +1,2 @@
-# AceProgrammingMedium
-ACE Selection 2018 Submission to Programming (Easy)
+# ACE Selection 2018
+Ansh Saini's Submission to Programming (Medium)
